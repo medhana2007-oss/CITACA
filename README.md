@@ -1,4 +1,4 @@
-# CIT College Dashboard - PWA
+# sns College Dashboard - PWA
 
 A modern, responsive Progressive Web App for Chennai Institute of Technology students, faculty, HOD, parents, and administrators.
 
